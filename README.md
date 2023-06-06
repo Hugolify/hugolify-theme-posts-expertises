@@ -1,10 +1,10 @@
-# hugolify-themes-publications-statutes
+# hugolify-themes-posts-expertises
 
 ## Install
-Edit `config/_default/module.yaml` to install the `hugolify-theme-publications-expertises` module:
+Edit `config/_default/module.yaml` to install the `hugolify-theme-posts-expertises` module:
 ```yml
 imports:
-  - path: github.com/hugolify/hugolify-theme-publications-expertises
+  - path: github.com/hugolify/hugolify-theme-posts-expertises
 ```
 
 ## Documentation

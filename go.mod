@@ -1,3 +1,3 @@
-module github.com/hugolify/hugolify-theme-publications-expertises
+module github.com/hugolify/hugolify-theme-posts-expertises
 
 go 1.19
