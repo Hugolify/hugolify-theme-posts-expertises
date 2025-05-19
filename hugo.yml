@@ -11,6 +11,9 @@ module:
 
 # Default
 permalinks:
-  posts_expertises: /news/expertises/:slug/
+  taxonomy:
+    posts_expertises: /news/expertises/
+  term:
+    posts_expertises: /news/expertises/:slug/
 taxonomies:
   posts_expertise: posts_expertises
