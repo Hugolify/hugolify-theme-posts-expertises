@@ -1,0 +1,11 @@
+/* components/posts-expertise.css */
+/*
+ * Usage: <article class="item posts_expertise">
+ */
+@layer components {
+  .posts_expertise {
+    .btn {
+      display: none;
+    }
+  }
+}
